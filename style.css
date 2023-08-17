@@ -381,3 +381,18 @@ body {
     justify-content: center;
     margin-left: auto;
 }
+
+.btn-purchase {
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.cart-total {
+    display: inline;
+    padding-top: 10px;
+    display: block;
+    text-align: left;
+    font-weight: normal;
+    font-size: 1.2em;
+    font-family: "Toronto Gothic";
+}
